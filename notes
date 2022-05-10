@@ -1,0 +1,23 @@
+HTML is for the basic structure of the website (e.g. the bricks & walls of a house)
+
+For headers, use <h1> and </h1> (forward slash when closing the tag)
+It will make the text incrementally smaller and you use <h2>, <h3>, etc. all the way to <h6> which is the smallest the header can go
+
+# Heading documentation
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+https://www.w3schools.com/html/html_headings.asp
+https://devdocs.io/
+
+To create a line break and/or extra spaces between lines, use <br> (doesn't need a closing tag) 
+
+# ANATOMY OF A TAG
+
+<h1>Hello World!</h1>
+The h1's are the start and end tags
+The "Hello World!" is the content
+
+If I have a tag like <hr size="3" noshade> (horizontal line), the "hr" is the HTML element and the size="3"/"noshade" is the HTML attribute
+HTML elements can use different attributes to change the settings of the element such as size, color, etc.
+
+Not all HTML tags require a closing tag
+Check the documentation to see if things need a closing tag as well as what attributes are available
