@@ -21,3 +21,7 @@ HTML elements can use different attributes to change the settings of the element
 
 Not all HTML tags require a closing tag
 Check the documentation to see if things need a closing tag as well as what attributes are available
+
+<center> centers the block
+
+<!-- This is how you comment out text in HTML code -->
